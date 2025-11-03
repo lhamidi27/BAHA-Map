@@ -9,7 +9,7 @@
         "Link": "http://berkeleyheritage.com/berkeley_landmarks/images/Alma_Kennedy_house7.jpg",
         "Notes": "CA State Historic Resources Inventory",
         "Designated": "July 21 1986",
-        "Architect + Date": "Bernard Maybeck (1914; 1923)"
+        "Architect&Date": "Bernard Maybeck (1914; 1923)"
       },
       "geometry": {
         "coordinates": [
@@ -27,7 +27,7 @@
         "Notes": "CA State Historic Resources Inventory",
         "Link": "http://berkeleyheritage.com/berkeley_landmarks/allanoke.html",
         "Designated": "November 17 1986",
-        "Architect + Date": "Ernest Coxhead (1903)"
+        "Architect&Date": "Ernest Coxhead (1903)"
       },
       "geometry": {
         "coordinates": [
@@ -45,7 +45,7 @@
         "Link": "http://berkeleyheritage.com/berkeley_landmarks/municipal-rose-garden.html",
         "Designated": "March 3 1995",
         "Notes": "N/A",
-        "Architect + Date": "Vernon M. Dean (1933–1937)"
+        "Architect&Date": "Vernon M. Dean (1933–1937)"
       },
       "geometry": {
         "coordinates": [
@@ -63,7 +63,7 @@
         "Link": "http://berkeleyheritage.com/berkeley_landmarks/images/Euclid_Apts.facade.jpg",
         "Notes": "CA State Historic Resources Inventory",
         "Designated": "September 8 1998",
-        "Architect + Date": "John Galen Howard (1912)"
+        "Architect&Date": "John Galen Howard (1912)"
       },
       "geometry": {
         "coordinates": [
@@ -81,7 +81,7 @@
         "Address": "1495 Euclid Avenue",
         "Notes": "N/A",
         "Designated": "July 2 2019",
-        "Architect + Date": "Walter H. Ratcliff, Jr. (1929)"
+        "Architect&Date": "Walter H. Ratcliff, Jr. (1929)"
       },
       "geometry": {
         "coordinates": [
@@ -99,7 +99,7 @@
         "Link": "http://berkeleyheritage.com/berkeley_landmarks/2016_landmarks.html",
         "Designated": "February 4 2016",
         "Notes": "N/A",
-        "Architect + Date": "1892; 1915"
+        "Architect&Date": "1892; 1915"
       },
       "geometry": {
         "coordinates": [
@@ -117,7 +117,7 @@
         "Link": "http://berkeleyheritage.com/berkeley_landmarks/images/Ernest_Loring_house.jpg",
         "Designated": "October 16 1989\t",
         "Notes": "N/A",
-        "Architect + Date": "John Hudson Thomas (1914)"
+        "Architect&Date": "John Hudson Thomas (1914)"
       },
       "geometry": {
         "coordinates": [
@@ -135,7 +135,7 @@
         "Notes": "CA State Historic Resources Inventory",
         "Designated": "March 19 1990",
         "Link": "https://berkeleyheritage.com/berkeley_landmarks/landmarks101-200.html",
-        "Architect + Date": "Bernard Maybeck (1933)"
+        "Architect&Date": "Bernard Maybeck (1933)"
       },
       "geometry": {
         "coordinates": [
@@ -153,7 +153,7 @@
         "Link": "http://berkeleyheritage.com/berkeley_landmarks/maurer_studio.html",
         "Notes": "CA State Historic Resources Inventory",
         "Designated": "March 19 1990",
-        "Architect + Date": "Bernard Maybeck (1907)"
+        "Architect&Date": "Bernard Maybeck (1907)"
       },
       "geometry": {
         "coordinates": [
@@ -171,7 +171,7 @@
         "Notes": "Structure of Merit CA State Historic Resources Inventory",
         "Link": "http://berkeleyheritage.com/berkeley_landmarks/weltevreden.html",
         "Designated": "August 20 1990",
-        "Architect + Date": "Albert Cicero Schweinfurth (1896)"
+        "Architect&Date": "Albert Cicero Schweinfurth (1896)"
       },
       "geometry": {
         "coordinates": [
