@@ -7,3 +7,44 @@ body {
   top: 0;
   bottom: 0;
   width: 100%; }
+
+  h1 {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    text-align: center;
+    z-index: 1000;
+    background: rgba(255, 255, 255, 0.9);
+    padding: 15px 20px;
+    margin: 0;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    color: #333;
+}
+h3{text-align: center;
+  font-family: 'Helvetica Neue', Helvetica, sans-serif
+}
+
+
+/* Change popup font */
+.mapboxgl-popup-content {
+  font-family: 'Helvetica Neue', Helvetica, sans-serif;
+  font-size: 14px;
+  line-height: 1.5;
+  color: black; /* text color */
+  border-style: solid;
+  border-color: black;
+  border-width: 2px;
+}
+
+
+/* Optional: change link styles inside popups */
+.mapboxgl-popup-content a {
+  color: #4264FB;
+  text-decoration: none;
+}
+.mapboxgl-popup-content a:hover {
+  text-decoration: underline;
+}
